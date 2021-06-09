@@ -1,2 +1,2 @@
 <h3 align="center">Woke</h3>
-<p align="center">
+<h3 align="center">Hello, I am an amateur developer mostly focused on C#</h3>
